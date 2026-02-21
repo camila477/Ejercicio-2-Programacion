@@ -22,8 +22,8 @@ con sus imagenes y sus respectivas descripciones.
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: 
+Repositorio en GitHub:  
+Deploy:  https://camila477.github.io/Ejercicio-2-Programacion/
 ---
 
 ## 📝 Reflexión
