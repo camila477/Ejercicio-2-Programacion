@@ -8,7 +8,8 @@
 ---
 
 ## 📌 Descripción
-En este ejercicio se llevo a cabo una lista de articulos junto con sus imagenes 
+En este ejercicio se llevo a cabo una pagina sobre un listado de articulos
+con sus imagenes y sus respectivas descripciones.
 
 
 ---
@@ -22,8 +23,9 @@ En este ejercicio se llevo a cabo una lista de articulos junto con sus imagenes
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: 
 ---
 
 ## 📝 Reflexión
-Durante este ejerciocio aprendei la importancia de la estructura de article asi como su funcionamiento.
+Durante este ejercio aprendi mas a utilizar la etiqueta article y la importancia del diseño
+de CSS la estructuracion del contenido.
